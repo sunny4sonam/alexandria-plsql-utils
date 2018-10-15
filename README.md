@@ -1,3 +1,6 @@
+# this has sample code for the stored procedures in the ora folder you can use it and tweek it
+
+
 # alexandria-plsql-utils
 Oracle PL/SQL Utility Library
 
